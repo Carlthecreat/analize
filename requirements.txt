@@ -1,0 +1,9 @@
+apachelogs==0.6.1
+attrs==26.1.0
+markdown-it-py==4.2.0
+mdurl==0.1.2
+polars==1.40.1
+polars-runtime-32==1.40.1
+pydicti==1.2.1
+Pygments==2.20.0
+rich==15.0.0
