@@ -1,4 +1,4 @@
-# Analize
+# Analize v0.1
 
 A lightweight command-line Apache log analyzer built with Python and Polars.
 
